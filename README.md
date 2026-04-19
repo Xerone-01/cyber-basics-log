@@ -1,12 +1,17 @@
 # Xerone-01 🧢
 
 ## Cybersecurity Journey
-This is my first repository on GitHub.
+Welcome to my first repository.
 
-## What I'm doing:
-- Learning networking
-- Learning Linux basics
-- Starting cybersecurity practice
+## About Me:
+- Biggner in cubersecurity
+- Learning networking & Linux
+- Interested in ethical hacking
+
+## What I'm doing now:
+- Practice basics
+- Exploring secutity tools
+- Building my skills step by step
 
 ## Goal: 
-Become an ethical hacker step by step. 
+Become skilled ethical hacker through legal and ethical practice.
